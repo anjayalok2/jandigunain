@@ -261,7 +261,7 @@ var fgi = {
 key: {
 fromMe: false,
 participant: `0@s.whatsapp.net`, ...(from ? 
-{ remoteJid: "6289643739077-1613049930@g.us" } : {})
+{ remoteJid: "6283830815715-1613049930@g.us" } : {})
 },
 message: { 
 "videoMessage": { 
